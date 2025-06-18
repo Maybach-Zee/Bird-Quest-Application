@@ -1,0 +1,41 @@
+BirdQuest Application - Release Notes
+
+Version 1.0.1 - November 8, 2024
+
+- This update includes a number of improvements, fixes, and innovative features added since the initial prototype release. The focus has been on enhancing user experience, streamlining functionality, and addressing feedback to build a robust birdwatching tool for enthusiasts.
+
+key updates and new features
+
+1. Switch from Mapbox to Google Maps API
+- Based on usability insights, the application now utilizes Google Maps API instead of Mapbox for a more intuitive mapping experience. This switch allows for smoother navigation, a familiar interface, and greater flexibility with mapping features.
+
+2. Enhanced User Settings
+- Added new preferences to the Settings page, allowing users to set and adjust the maximum travel distance for nearby hotspots. This feature enables birdwatchers to filter locations based on proximity to suit their birdwatching plans.
+
+3. Metric/Imperial System Toggle
+- Users can now toggle between metric and imperial distance measurements directly within settings. This flexibility supports diverse user needs, especially for those in regions where miles are more commonly used.
+
+4. Integrated Directions to Hotspots
+- After selecting a hotspot on the map, users can view the best route from their current location. Route calculation leverages Google Maps’ directions API, which provides accurate, real-time navigation options.
+
+5. Map Theme Toggle (Light/Dark Mode)
+- The map now supports both light and dark themes. Users can switch between these modes for optimal visibility depending on their preference or lighting conditions.
+
+6. Observation Recording and Management (In Progress)
+- Work has started on the observation pages, allowing users to save bird sightings with location details. This feature will eventually allow users to maintain a personal record of their observations and access them via a “View Observations” page.
+
+7. Gallery Page for Bird Photos
+- A new Gallery page has been added, allowing users to capture and store photos of birds. This feature offers a dedicated space within the app for birdwatchers to document their sightings visually, adding to the app’s observational capabilities.
+
+8. Refined Map Display and Controls
+- Simplified map interface to focus on core features. Floating action buttons have been added to allow quick access to different app sections, including Settings, Observations, and Gallery.
+
+Known Issues and Ongoing Development
+- Observation Pages: Observation pages are currently under development, with work being done to address saving and viewing functionalities. Final improvements are expected in the next update.
+- Map Display on Mobile Devices: While the map runs perfectly in the emulator, there is an issue on mobile devices where observations are not displaying as expected. Debugging efforts are underway to ensure consistency across platforms and resolve this issue.
+
+Future Updates
+- Implementing a user-friendly observation management feature, enabling users to organize and access their bird sightings efficiently.
+- Adding offline functionality to allow users to save map data and observations even in areas with limited internet connectivity.
+
+End of Release Notes
