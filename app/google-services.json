@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "759157872879",
+    "project_id": "bird-quest-final-app",
+    "storage_bucket": "bird-quest-final-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759157872879:android:10c17841589e65f319231a",
+        "android_client_info": {
+          "package_name": "com.example.birdquestapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPURbwaFuK99Qd6Neb9oTbnebNUAhlldQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759157872879:android:7b263785d9a9ffad19231a",
+        "android_client_info": {
+          "package_name": "com.example.birdquestapplicationfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPURbwaFuK99Qd6Neb9oTbnebNUAhlldQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759157872879:android:3ff2a45faab4fb6919231a",
+        "android_client_info": {
+          "package_name": "com.example.birdquestfinalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPURbwaFuK99Qd6Neb9oTbnebNUAhlldQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

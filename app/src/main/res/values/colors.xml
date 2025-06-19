@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tab_indicator">#007ACC</color> <!-- A vibrant coral red for active tab indicators -->
+    <color name="app_background">#1E2D38</color> <!-- A rich dark navy for the app background -->
+    <color name="app_background2">#2E2E2E</color> <!-- A rich dark navy for the app background -->
+    <color name="teal_200">#007ACC</color> <!-- A soft light pink for accents -->
+    <color name="teal_700">#8B4513</color> <!-- A warm, earthy brown for headers or key elements -->
+    <color name="black">#000000</color> <!-- Pure black for text or icons -->
+    <color name="white">#F8F8FF</color> <!-- A soft white (ghost white) for contrast with text and icons -->
+    <color name="clickedMetric">#FFD700</color> <!-- A distinct slate blue to indicate clicked metrics or active selections -->
+    <color name="gray">#708090</color> <!-- A slate gray for subtle dividers or background elements -->
+    <color name="navigation">#1E90FF</color>
+    <color name="gray_fade">#D3D3D3</color> <!-- A light gray (light gray) for a subtle, faded look -->\
+    <color name="red_primary">#FF4500</color> <!-- A bold, vibrant orange-red (orange red) -->
+    <color name="Gold">#FFD700</color>  <!--A bright, luxurious gold-->
+    <color name="Navy">#2C3E50</color>  <!--A deep, classic navy blue-->
+
+</resources>

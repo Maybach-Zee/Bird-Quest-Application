@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Bird Quest</string>
+    <string name="signIn">Sign In</string>
+    <string name="signUp">Sign Up</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Add Observation-->
+    <string name="Cancel">Cancel</string>
+
+    <!--Sign in-->
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+
+    <!--Sign up-->
+    <string name="name">Name</string>
+    <string name="repeatPassword">Repeat Password</string>
+    <string name="surname">Surname</string>
+
+    <!--Settings-->
+    <string name="logout">Logout</string>
+
+    <!--Sign up-->
+    <string name="hotspots">Hotspots</string>
+
+    <!--Hotspots-->
+    <string name="Location">Location</string>
+
+    <!--Content Descriptions-->
+    <string name="Logo">Logo</string>
+
+    <!--Add Observation-->
+    <string name="HowMany">How many did you see?</string>
+    <string name="When">When did you see it?</string>
+    <string name="Where">Where did you see it?</string>
+    <string name="AddNote"><i>Add a note to your entry</i></string>
+
+    <!--Challenges-->
+    <string name="Challenges">ACHIEVEMENTS</string>
+    <string name="Back">Back</string>
+    <string name="PointEarnedHeading">My achievement Points</string>
+    <string name="WeeklyChallenges">Weekly Achievement</string>
+
+    <!--Settings Fragment-->
+    <string name="UserName">Bird Quest</string>
+    <string name="UserEmail">bQuest@gmail.com</string>
+    <string name="Settings"><b>Settings</b></string>
+    <string name="Units">Units</string>
+    <string name="MaxRadius">Max Radius</string>
+    <string name="About">About</string>
+    <string name="abouttext">Introducing Bird Quest: Bird Quest is your ultimate birdwatching companion! Effortlessly discover local birdwatching hotspots and get step-by-step directions to your destination. With real-time GPS tracking, you’ll never miss a sighting. Capture and save your bird observations with stunning photos, names, and descriptions, and relive your experiences through an interactive map. As you explore, unlock exciting achievements based on your bird photo collection, making your birdwatching journey more rewarding. Start your adventure with Bird Quest today!</string>
+    <string name="Metric">Metric</string>
+    <string name="Imperial">Imperial</string>
+    <string name="AddObservation">Add Observation</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoibWF5YmFjaHplZSIsImEiOiJjbTB3Z3JpMWUwMWdkMm5zYzdoYnAxNDJ0In0.04avs4eb5zF-lYTU-Slx1g</string>
+    <string name="SelectSpecies">Select a species</string>
+    <string name="SaveObservation">Save Observation</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="daily_challenges">Daily Challenges</string>
+
+    <string name="bird_name">%1$s (x%2$d)</string>
+    <string name="location">%1$s\nLatitude: %2$.6f, Longitude: %3$.6f</string>
+    <string name="unknown_location">Unknown Location</string>
+    <string name="add_observation">Add Observation</string>
+
+</resources>
